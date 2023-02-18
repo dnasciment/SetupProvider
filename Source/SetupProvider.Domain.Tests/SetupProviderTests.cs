@@ -2,7 +2,7 @@ using Xunit;
 
 namespace SetupProvider.Domain.Tests;
 
-public class UnitTest1
+public class SetupProviderTests
 {
     [Fact]
     public void Test1()
